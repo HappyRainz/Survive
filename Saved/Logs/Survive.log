@@ -1290,3 +1290,5 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.03.14-18.54.35:377][881]LogWindows: Warning: CreateProc failed: Access is denied. (0x00000005)
 [2023.03.14-18.54.35:377][881]LogWindows: Warning: URL: F:/UE_5/UE_5.1/Engine/Binaries/Win64/ version
 [2023.03.14-18.54.35:378][881]SourceControl: Error: Connection Error: Failed to enable Git source control. You need to install Git and specify a valid path to git executable.
+[2023.03.14-18.57.15:526][978]SourceControl: Source control is disabled
+[2023.03.14-18.57.15:528][978]LogSlate: Window 'Source Control Login' being destroyed
